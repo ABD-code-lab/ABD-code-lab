@@ -1,38 +1,87 @@
-<h1 align="center">Hi 👋, I'm Hafiz Muhammad Abdullah</h1>
-<h3 align="center">Full Stack Web Developer with AI Integraions</h3>
+<h1 align="center">🚀 Full-Stack Architect & AI Engineer</h1>
+<h3 align="center">Crafting Scalable Digital Experiences at the Intersection of Web and Intelligence</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abd-code-lab&label=Profile%20views&color=0e75b6&style=flat" alt="abd-code-lab" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abd-code-lab" alt="abd-code-lab" /></a> </p>
-
-- 🔭 I’m currently working on **Facial Expression Based Face Tracking Invigilation System**
-
-- 🌱 I’m currently learning **OpenCV, WebRTC**
-
-- 👯 I’m looking to collaborate on **School Mngt System**
-
-- 🤝 I’m looking for help with **AI Chatbot Using OpenAI Agents SDK**
-
-- 👨‍💻 All of my projects are available at [https://github.com/ABD-code-lab](https://github.com/ABD-code-lab)
-
-- 💬 Ask me about **React JS, Django, PostgreSQL**
-
-- 📫 How to reach me **muhammadabdullah7017014@gmail.com**
-
-- 📄 Know about my experiences [https://hafizabdullahreviews.online](https://hafizabdullahreviews.online)
-
-- ⚡ Fun fact **Programmer + Night Owl**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/hafiz muhammad abdullah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hafiz muhammad abdullah" height="30" width="40" /></a>
-<a href="https://fb.com/hafiz muhammad abdullah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hafiz muhammad abdullah" height="30" width="40" /></a>
-<a href="https://www.topcoder.com/members/39500" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="39500" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Welcome+to+my+digital+workshop!;Full-Stack+Web+Developer;AI%2FML+Enthusiast;Open-Source+Contributor;Problem+Solver" alt="Typing SVG" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abd-code-lab&show_icons=true&locale=en&layout=compact" alt="abd-code-lab" /></p>
+### 👨‍💻 About Me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abd-code-lab&show_icons=true&locale=en" alt="abd-code-lab" /></p>
+I'm a passionate and results-driven developer who thrives on building elegant solutions to complex problems. My expertise lies in architecting and developing full-stack web applications, while simultaneously pushing the boundaries by integrating cutting-edge Artificial Intelligence and Machine Learning models.
+
+*   🌐 **Full-Stack Proficiency:** Deep experience with modern front-end frameworks (React, Tailwind) and robust back-end technologies (Node.js, Python/Django, Spring Boot).
+*   🤖 **AI Integration:** Specialized in embedding AI capabilities—from NLP and Computer Vision to predictive analytics and LLMs—into production-grade web applications.
+*   💡 **Innovation Focused:** I am constantly experimenting with new technologies and paradigms, believing that the best solutions often lie at the intersection of different disciplines.
+
+---
+
+### 🛠️ Tech Stack & Tools
+
+#### **Frontend & Mobile**
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+#### **Backend**
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Django REST](https://img.shields.io/badge/Django%20REST-092E20?style=for-the-badge&logo=django&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+#### **AI/ML & Data**
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=opencv&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI_Agents_SDK-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-0081A5?style=for-the-badge&logo=scikitlearn&logoColor=white)
+
+#### **Databases**
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+#### **Cloud & DevOps**
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+
+---
+
+
+### 🏆 Highlighted Projects
+
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| **AI Chatbot Agent** | An intelligent Chatbot that can answer any of your queries using OpenAI API. This is totally made using OpenAI Agents SDK framework | `React`, `Django`, `Transformers`, `PostgreSQL`|
+| **Advanced School Mngt System** | A full stack website made using React JS and Django. It is actually a LMS that contains three main roles (admin, teacher and student) | `Next.js`, `Python`, `TensorFlow`, `Socket.io`, `Redis`, `AWS` |
+| **E-Commerce Website** | A full stack website made using Django. It have all important functionalities that a modern e-commerce website should have | `React`, `Node.js`, `WebRTC`, `TailwindCSS` |
+
+---
+
+### 📫 Let's Connect & Collaborate!
+
+I'm always open to discussing technology, collaboration on interesting projects, or new opportunities.
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/hafiz-muhammad-abdullah-9745b6262/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:muhammadabdullah7017014@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=your-username&label=Profile%20Views&color=0e75b6&style=flat" alt="your-username" />
+</p>
+
+<p align="center">
+  <i>“The best way to predict the future is to invent it.” - Alan Kay</i>
+</p>
